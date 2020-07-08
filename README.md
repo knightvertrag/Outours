@@ -2,7 +2,7 @@
 
 ### A landing page built with custom css written from scratch and compiled with scss.
 
-#### You can check out the page at: `https://knightvertrag.github.io/Outours/`
+#### You can check out the page at: https://knightvertrag.github.io/Outours/
 
 ## Set Up Environment
 
