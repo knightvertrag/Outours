@@ -2,6 +2,8 @@
 
 ### A landing page built with custom css written from scratch and compiled with scss.
 
+#### You can check out the page at: `https://knightvertrag.github.io/Outours/`
+
 ## Set Up Environment
 
 Clone the repository using the following command:
